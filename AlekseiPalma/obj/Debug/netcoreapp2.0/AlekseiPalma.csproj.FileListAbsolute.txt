@@ -1,0 +1,11 @@
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\bin\Debug\netcoreapp2.0\AlekseiPalma.deps.json
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\bin\Debug\netcoreapp2.0\AlekseiPalma.runtimeconfig.json
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\bin\Debug\netcoreapp2.0\AlekseiPalma.runtimeconfig.dev.json
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\bin\Debug\netcoreapp2.0\AlekseiPalma.dll
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\bin\Debug\netcoreapp2.0\AlekseiPalma.pdb
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\obj\Debug\netcoreapp2.0\AlekseiPalma.csprojAssemblyReference.cache
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\obj\Debug\netcoreapp2.0\AlekseiPalma.csproj.CoreCompileInputs.cache
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\obj\Debug\netcoreapp2.0\AlekseiPalma.AssemblyInfoInputs.cache
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\obj\Debug\netcoreapp2.0\AlekseiPalma.AssemblyInfo.cs
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\obj\Debug\netcoreapp2.0\AlekseiPalma.dll
+C:\Users\Aleksei-PC\Desktop\AlekseiPalma\AlekseiPalma\obj\Debug\netcoreapp2.0\AlekseiPalma.pdb
